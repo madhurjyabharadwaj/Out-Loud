@@ -4,7 +4,7 @@ A free, offline-first study app for product management interviews. Ten modules, 
 questions, a 352-term glossary and a spaced-repetition drill system — all in a single HTML
 file with no build step, no dependencies and no server.
 
-**Live:** [_add your GitHub Pages URL here after the first deploy_](https://madhurjyabharadwaj.github.io/Out-Loud/)
+**Live:** [_Link to OutLoud_](https://madhurjyabharadwaj.github.io/Out-Loud/)
 
 ---
 
